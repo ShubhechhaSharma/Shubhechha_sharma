@@ -1,4 +1,4 @@
 # Shubhechha_sharma
 My first Git Repository
 <br>
-Author-Shubhu
+Author-Shubhu Sharma
